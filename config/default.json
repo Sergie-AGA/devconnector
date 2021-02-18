@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://sergie:Neuschwanstein7@cluster0.gger6.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://sergie:Neuschwanstein7@cluster0.gger6.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
